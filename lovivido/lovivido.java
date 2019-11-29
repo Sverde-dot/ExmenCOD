@@ -1,7 +1,4 @@
-/*
- * Examen Refactorizacion
- * 
- */
+//projecto arreglado
 package lovivido;
 
 import javax.swing.JOptionPane;
